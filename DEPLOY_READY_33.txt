@@ -1,0 +1,1 @@
+TerraForge guest runtime payload complete: 33/33 encrypted chunks. Bootstrap activated.
